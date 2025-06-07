@@ -1,0 +1,15 @@
+#! /bin/bash
+
+sncast deploy --class-hash $1 --fee-token eth
+
+#token
+class_hash: 0x62a778ae914fc6f0e04eabcf39ee8c6a3754355108687c69bd5a4fbb018ca47
+transaction_hash: 0x5f47ed23c1f96eb5aa95e78d88ab603c2900b48c8e8cfe5222e99e0babc1783
+
+
+contract_address: 0x5d35879dde5ea78f72b6da02df84032dce9329551f61e6c3cd599ca43b4e098
+transaction_hash: 0x229ed6eda7f84daa69687894197e4487e86b5a16f42f75209950c81734c615d
+
+#bank
+contract_address: 0x64dbbe311ffe2ac52f03da4cd5a6e773e1974fd919fd24f1549a46e1fa6632b
+transaction_hash: 0x60a95ac88699fe0067e70614ce174409f2972492dc1ac131ff46149ca2ede91
